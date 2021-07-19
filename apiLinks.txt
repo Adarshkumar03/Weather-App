@@ -1,3 +1,6 @@
-api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}
-https://api.unsplash.com/search/photos/?page=1&query=office&client_id=YOUR_ACCESS_KEY
-https://api.openweathermap.org/data/2.5/onecall?lat={lat}&lon={lon}&exclude={part}&appid={API key}
+https://api.openweathermap.org/data/2.5/weather?q=kolk&appid=1d71cd7d93c549046774772d97475375
+https://api.unsplash.com/search/photos/?page=1&query=office&client_id=ZD7Nbpwiy2OG6jf84A8IXJSm-t4xNtehKJmvMrT9H3Q
+https://api.openweathermap.org/data/2.5/onecall?lat={lat}&lon={lon}&appid=1d71cd7d93c549046774772d97475375
+
+'https://api.iconfinder.com/v4/icons/search?query=cloudy&count=1&appid=1T3kczfM1N0e8YKgTomd7J6gOeMlYWCNcajtKHOtPCtDbC5HdC2CQC2r1f619Wrg
+'
